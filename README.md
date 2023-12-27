@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E16AQG5MJN7u4O34g/profile-displaybackgroundimage-shrink_200_800/0/1631627401432?e=2147483647&v=beta&t=tP0p668Y9vq19jtG2nl88kWWUDmas9n4rVG54QrRYjM)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/C4E16AQG5MJN7u4O34g/profile-displaybackgroundimage-shrink_200_800/0/1631627401432?e=2147483647&v=beta&t=tP0p668Y9vq19jtG2nl88kWWUDmas9n4rVG54QrRYjM)](https://vishalsutar.io)
 <h1 align="center">Hi 👋, I'm VISHAL VISHWANATH SUTAR</h1>
 <h3 align="center">"A fervent creator dedicated to frontend technologies, shaping user experiences through HTML, CSS, and JavaScript. Constantly exploring the realm of React, Bootstrap, and Tailwind CSS to craft innovative solutions."</h3>
 <img align="right" alt="coder" width="400" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif">
